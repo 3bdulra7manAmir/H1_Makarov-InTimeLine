@@ -12,6 +12,6 @@
 5. Put these ffs into Your main game Directory, EX:<br>"E:\Games\Call of Duty Modern Warfare Remastered" Then paste em.<br>
 6. Launch the Game.<br>
 7. Before you launch your mission press this key "`" and do "loadzone md" then hit Enter and "loadzone mw2cr_makarov" then hit Enter.<br>
-<p>Note: when you are doing loadzone..... do it without the double quotes then start your mission.</p>
+<p>Note: When you are doing loadzone..... do it without the double quotes then start your mission.</p>
 
 <h2>Images</h2>
