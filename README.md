@@ -20,7 +20,6 @@ h1-makarov-InTimeLine
 
 ![Screenshot (138)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/8e226398-83d5-41a5-82d2-63b95b3d777b)
 
-
 ![Screenshot (139)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/1a556320-6cd3-4025-96b9-8f572ab222df)
 
 ![Screenshot (137)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/c7516093-f884-47f1-80b1-8f5fc01d0449)
@@ -41,4 +40,4 @@ h1-makarov-InTimeLine
 
 ![Screenshot (135)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/929d43d8-0b57-4a3c-ad62-63bbb5bb153f)
 
-![Screenshot (136)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/aded070b-6656-46c9-b194-02dc3c273461)
+![Screenshot (136)](https:![Screenshot (129)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/8e70f5c7-1005-4d0c-bb16-1dcf56679abb)
