@@ -18,26 +18,26 @@ h1-makarov-InTimeLine
 
 <h2>Images</h2>
 
-![Screenshot (138)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/8e226398-83d5-41a5-82d2-63b95b3d777b)
+![Screenshot (138)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/dbe17b77-27bd-4cb4-8b7a-6c43806411bf)
 
-![Screenshot (139)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/1a556320-6cd3-4025-96b9-8f572ab222df)
+![Screenshot (139)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/7b45e834-2452-4b9a-bfa1-eda181a3e2ce)
 
-![Screenshot (137)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/c7516093-f884-47f1-80b1-8f5fc01d0449)
+![Screenshot (125)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/8f3be324-f34e-4259-8566-ef65fd4a6148)
 
-![Screenshot (133)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/7435eef8-fc0e-4f83-a967-ac4fc0500939)
+![Screenshot (126)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/78b6b620-b4bf-4196-92f1-8d6b1687dc68)
 
-![Screenshot (130)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/35a616a9-d242-48dd-89ae-933db3d0f56c)
+![Screenshot (127)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/a3975ec8-7a41-4071-81eb-df78eb60262e)
 
-![Screenshot (126)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/274b97c0-057e-47d4-b00f-a167497321bb)
+![Screenshot (129)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/ae3a355d-bea8-47e1-a8ff-bf679a5d7067)
 
-![Screenshot (129)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/2b81b5e2-1c99-441a-9a4c-d6886e191f73)
+![Screenshot (130)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/789a483c-ba5c-4184-b55f-f7954a616cb6)
 
-![Screenshot (125)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/69b1432a-e4e6-4c00-a5b4-bc0cf2becf78)
+![Screenshot (132)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/951f3a35-b013-4dd4-9795-11982a4397eb)
 
-![Screenshot (127)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/725b2b4f-b98d-462f-b49c-744e9f74d8bf)
+![Screenshot (133)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/863d76d3-5b1e-4fd1-a449-c27c67294129)
 
-![Screenshot (132)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/e337e714-9f8e-41f8-95e6-41c71bb0e125)
+![Screenshot (135)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/3d03acdd-ffa8-48bc-8bfe-01a6fb2f85b1)
 
-![Screenshot (135)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/929d43d8-0b57-4a3c-ad62-63bbb5bb153f)
+![Screenshot (136)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/fee25633-0a33-4fad-bdb9-f300daa9123f)
 
-![Screenshot (136)](https:![Screenshot (129)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/8e70f5c7-1005-4d0c-bb16-1dcf56679abb)
+![Screenshot (137)](https://github.com/3bdulra7manAmir/h1-makarov-InTimeLine/assets/64253660/9ec11aac-1b76-4019-9e37-09c84e2a14b3)
